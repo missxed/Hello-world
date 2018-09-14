@@ -1,2 +1,3 @@
 # Hello-world
 I am learning GitHub.This is my first repository.
+1、w i'm writing something...then i will commit these changes...
